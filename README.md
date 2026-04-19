@@ -88,6 +88,13 @@ The network is divided into multiple departments and floors:
 * VLAN and switching concepts
 * Network security implementation (ACLs, NAT)
 * Troubleshooting and testing
+* ## 🧩 Packet Tracer Simulation
+
+Download and open the full network simulation:
+
+👉 [Download Packet Tracer File](enterprise-network-topology.pkt)
+
+> Open using Cisco Packet Tracer to explore configurations, routing, VLANs, and security settings.
 
 ## 👩🏽‍💻 Author
 
