@@ -108,7 +108,6 @@ This project demonstrates:
 
 Download and open the full network simulation:
 
-👉 [Download Packet Tracer File](https://raw.githubusercontent.com/mngomaasikelelwe-ai/REPO/main/enterprise-network-topology.pkt)
 
 > Open using Cisco Packet Tracer to explore configurations, routing, VLANs, and security settings.
 
