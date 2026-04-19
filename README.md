@@ -90,6 +90,22 @@ The network is divided into multiple departments and floors:
 * Troubleshooting and testing
 * ## 🧩 Packet Tracer Simulation
 
+## 📸 Network Simulation Screenshots
+
+Here is the full network simulation setup:
+
+![Network Simulation](screenshots/network.png)
+## 📸 Network Simulation Project
+
+### 🖧 Topology, Configuration & Testing
+
+This project demonstrates:
+- Network topology design
+- Router configuration
+- Connectivity testing
+
+![Full Simulation](screenshots/network.png)
+
 Download and open the full network simulation:
 
 👉 [Download Packet Tracer File](https://raw.githubusercontent.com/mngomaasikelelwe-ai/REPO/main/enterprise-network-topology.pkt)
