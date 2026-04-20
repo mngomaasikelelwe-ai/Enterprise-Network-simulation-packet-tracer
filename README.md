@@ -107,9 +107,7 @@ This project demonstrates:
 ![Full Simulation](screenshots/network.png)
 
 Download and open the full network simulation:
-
-
-> Open using Cisco Packet Tracer to explore configurations, routing, VLANs, and security settings.
+Viewing requires cisco packet tracer to open pkt files
 
 ## 👩🏽‍💻 Author
 
